@@ -48,6 +48,7 @@ font-family:'bungee_sha';
     font-family: 'bark';
     src: url(typsnitt/Barlow_Condensed/BarlowCondensed-Medium.ttf);
 }
+/* första class main-container för hela första diven */
 .main-container {
 display:flex;
 background-color:rgba(0,0, 0, 0.5);
@@ -111,6 +112,7 @@ a {
   color:black;
   min-width: 0;
 }
+/* slut på första div classen/ början av section */
 section {
   border: 1px solid white;
   border-radius: 20px;
