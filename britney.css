@@ -112,7 +112,7 @@ a {
   color:black;
   min-width: 0;
 }
-/* slut på första div classen/ början av section */
+/* "slut" på första div classen/ början av section */
 section {
   border: 1px solid white;
   border-radius: 20px;
@@ -274,7 +274,7 @@ section .grid-one ol {
 }
 
 
-
+/* section 2 resten av andra containern */
 section .grid-two {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
