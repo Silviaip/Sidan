@@ -100,6 +100,7 @@ nav a:hover {
   background-color: rgba(0, 0, 0, 0.6);
   color: white;
 }
+/*hade funkat bättre med flex-grow för andra projekt */
 a {
   font-family: 'barlow_semi';
   text-decoration: none;
