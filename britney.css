@@ -480,7 +480,7 @@ footer p {
       font-size: 14px;
   }
 }
-
+/* mobilversion ändrat gridarna */
 @media (min-width: 400px) and (max-width: 500px) {
 
   body {
